@@ -6,3 +6,4 @@
 wx库其实是wxPython
 cv2是Opencv-Python
 PIL要安装，包名pillow，其它都一致
+推荐使用https://github.com/Grey752/PIPDownload
